@@ -1,0 +1,17 @@
+{
+  "name": "zantonijevic/documents",
+  "description": "Document Crud with categories",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Zivorad Antonijevic",
+      "email": "zivorad.antonijevic@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": ">=2.0.6",
+    "kartik-v/yii2-widget-fileinput": "*"
+  }
+}
