@@ -12,7 +12,7 @@ namespace zantonijevic\documents;
  * Module
  **/
 class Module extends \yii\base\Module {
-	public $controllerNamespace = 'backend\modules\controllers';
+	public $controllerNamespace = 'zantonijevic\documents\controllers';
 	public $defaultRoute = 'document';
 
 	public function init() {
